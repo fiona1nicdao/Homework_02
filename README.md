@@ -2,10 +2,10 @@
 
 # Fiona Nicdao Porfolio Webpage 
 
-# Purpose
+## Purpose
 The Purpose for this project is to have a professional portfolio webpage with work samples to show potential employers. 
 
-# Objectives 
+## Objectives 
 - have webpage with samples of pervious work projects 
 - have your name on the webpage
 - have a recent photo on the webpage 
@@ -17,9 +17,8 @@ The Purpose for this project is to have a professional portfolio webpage with wo
 - have UI scrolls to a specified sections 
 - have responsive layout that adapts to the users viewport
 
-Link to porfolio webpage
-<!-- add link  -->
+Link to [porfolio webpage](https://fiona1nicdao.github.io/Homework_02/)
 
-# Webpage Preview
-<!-- notes -->
-<!-- add image -->
+## Webpage Preview
+This is the view on chrome on a moblie device
+<!-- ![Horiseon webpage](./assets/ScreenshotHoriseon.png)  -->

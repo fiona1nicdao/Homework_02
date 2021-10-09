@@ -174,4 +174,7 @@ footer ul {
     header {
         background-color: #0b2e7a;
     }
+    .box img {
+        width: 50%;
+    }
 }
