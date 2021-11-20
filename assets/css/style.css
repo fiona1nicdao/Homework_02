@@ -106,7 +106,7 @@ main {
     font-weight: bold;
     position: relative;
     bottom: 90px;
-    width: 130px;
+    width: 200px;
     text-align: left;
 }
 .W-P {
@@ -114,9 +114,12 @@ main {
     position: relative;
     bottom: 90px;
     padding-left: 30px; 
-    width: 130px;
+    width: 200px;
     color: #ffffff;
     text-align: left;
+}
+.W-Pa {
+    color: #ffffff;
 }
 
 .bigSample img {
