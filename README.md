@@ -21,4 +21,4 @@ Link to [porfolio webpage](https://fiona1nicdao.github.io/Homework_02/)
 
 ## Webpage Preview
 This is the view on chrome on a moblie device
-![Fiona Nicdao](./assets/ScreenShot-1.png)
+![Fiona Nicdao](./assets/images/Screenshot-1.png)

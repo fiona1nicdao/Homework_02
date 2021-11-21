@@ -43,9 +43,9 @@ h2 {
     font-size: 180%;
     color: #ffffff;
     position:relative;
-    right: 40px;
+    right: -390px;
     top: 30px;
-    justify-content: right
+    justify-content:center;
 }
 
 main {
