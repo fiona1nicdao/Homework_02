@@ -1,5 +1,3 @@
-# Homework_02
-
 # Fiona Nicdao Porfolio Webpage 
 
 ## Purpose
