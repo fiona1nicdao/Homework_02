@@ -20,3 +20,6 @@ Link to [porfolio webpage](https://fiona1nicdao.github.io/portfolio-1/)
 ## Webpage Preview
 This is the view on chrome on a moblie device
 ![Fiona Nicdao](./assets/images/Screenshot-1.png)
+
+# Questions 
+Please contact me direclty via the github [fiona1nicdao](<https://github.com/fiona1nicdao>) 
